@@ -1,0 +1,39 @@
+# (1) Is there something wrong with the following code:
+
+class User < ActiveRecord::Base
+  scope :find_by_age, ->(age) { where("users.age = #{age}") }
+end
+
+# If yes, please tell why. If not, please tell how to order all records by id.
+
+# (2) One developer has added posts_count column to the users table. After this operation he found that
+# he has to wait longer for the search results. What could be the reason of the performance issues? What did he forget?
+
+
+# (3) Please write a test in the rspec for the following code:
+
+class Message
+  def mark_as_read
+    update_column :read, true
+  end
+end
+
+
+# (4) What's the difference between includes() and joins() in the ActiveRecord?
+
+# (5) Please present, how you can generate new ssh key and how to set up automatic login on the remote machine.
+
+# (6) What's the difference between update_attributes! and update_attributes ?
+
+# (7)
+<form action='/user' method='post'>
+  <input type='hidden' name='user[id]'   value='4932'>
+  <input type='text'   name='user[name]' value='Jan Kowalski'>
+  <input type='text'   name='user[email]' value='jan@kowalski.pl'>
+  <input type='submit' value='Update My Account'>
+</form>
+# The developer found that when he changes the user[id] field, he can read the name and e-mail for the different user.
+# What could be the reason of the following situation? How can you fix that?
+
+# (8) What's the difference between relational and no-sql databases?
+
