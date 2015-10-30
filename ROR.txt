@@ -38,3 +38,4 @@ end
 # (8) What's the difference between relational and no-sql databases?
 # (9) Situations when you need to user helpers
 # (10) MVC, assets pipline, advantages of using scss with rails assets piplene
+# (11) Patterns, singleton usage
