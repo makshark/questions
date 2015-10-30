@@ -36,4 +36,4 @@ end
 # What could be the reason of the following situation? How can you fix that?
 
 # (8) What's the difference between relational and no-sql databases?
-
+# (9) Situations when you need to user helpers
