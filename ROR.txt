@@ -36,4 +36,7 @@ end
 # What could be the reason of the following situation? How can you fix that?
 
 # (8) What's the difference between relational and no-sql databases?
-
+# (9) Situations when you need to user helpers
+# (10) MVC, assets pipline, advantages of using scss with rails assets piplene
+# (11) Patterns, singleton usage
+#  Database indexing advantages and disadvantages, when to use, difference with Object databases
