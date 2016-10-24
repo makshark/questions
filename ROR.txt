@@ -40,4 +40,5 @@ end
 # (10) MVC, assets pipline, advantages of using scss with rails assets piplene
 # (11) Patterns, singleton usage
 #  Database indexing advantages and disadvantages, when to use, difference with Object databases
-# What do ypu know about CI?
+# What do you know about CI?
+# DIfferences between Docker and Vagrant, what do you prefer, why?
