@@ -41,4 +41,5 @@ end
 # (11) Patterns, singleton usage
 #  Database indexing advantages and disadvantages, when to use, difference with Object databases
 # What do you know about CI?
-# DIfferences between Docker and Vagrant, what do you prefer, why?
+# Differences between Docker and Vagrant, what do you prefer, why?
+# Async requests flow
